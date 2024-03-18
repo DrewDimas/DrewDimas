@@ -12,20 +12,26 @@ I'm an aspiring Data Engineer with a robust background in data analytics, progra
 
 - **Bachelor of Applied Arts and Sciences in Data Analytics & Psychological Sciences**
   - University of Pennsylvania, Graduated Summa Cum Laude
-- **Data Engineering Career Path**
+- **Data Engineering Path**
   - Codecademy, Sep 2022 – Present
 - **Data Engineering Zoomcamp**
   - DataTalks, Jan 2024 – Present
 
 ## Projects & Highlights
 
-My GitHub projects reflect my commitment to mastering data engineering and analytics. They include:
+### Data Engineering Repository
 
 - Data pipelines and ETL processes using GCP, BigQuery, and Spark
 - Workflow orchestration with Mage and dbt for data transformation and batch processing
 - Real-time data streaming applications leveraging Kafka
 - Containerization with Docker for consistent deployment environments
 - Infrastructure management using Terraform for cloud resources
+
+### UPenn Repository
+
+- **Statistics Final Project:** This repository showcases my final project for the statistics course at UPenn, demonstrating my ability to apply statistical analysis techniques to solve complex problems and derive meaningful insights from data.
+- **Shiny App for Philadelphia Data Analysis:** Developed a Shiny app that serves as an interactive website for analyzing and visualizing data specific to Philadelphia. This project highlights my skills in R programming, data visualization, and web application development, providing valuable insights into urban data analytics.
+
 
 ## Looking Forward
 
